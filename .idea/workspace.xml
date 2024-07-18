@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="484196c5-09ca-4731-8a00-1900adc83da3" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notes/binary_search.md" afterDir="false" />
+    <list default="true" id="484196c5-09ca-4731-8a00-1900adc83da3" name="Changes" comment="update and add readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binary_search/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/binary-search/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes/binary_search.md" beforeDir="false" afterPath="$PROJECT_DIR$/binary-search/notes.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,17 +37,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.binary_search.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Marisa/Python/Py_mosh_course&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.binary_search.executor": "Run",
+    "Python.image.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Marisa/Python/AlgorithmProjects/pyphotoshop-main/input",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Marisa\Python\AlgorithmProjects\pyphotoshop-main\input" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Marisa\Python\AlgorithmProjects\binary-search" />
+      <recent name="C:\Marisa\Python\AlgorithmProjects\photo-manipulation" />
+      <recent name="C:\Marisa\Python\AlgorithmProjects\notes" />
       <recent name="C:\Marisa\Python\AlgorithmProjects" />
       <recent name="C:\Marisa\Python\AlgorithmProjects\binary_search" />
     </key>
@@ -84,11 +92,20 @@
       <option name="project" value="LOCAL" />
       <updated>1720018395721</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update and add readme">
+      <option name="closed" value="true" />
+      <created>1721044321034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721044321035</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update and add readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="update and add readme" />
   </component>
 </project>
